@@ -1,0 +1,881 @@
+# Webalizer V2.01-10 Incremental Data - 02/10/2013 21:25:15
+2013 2 10 21 25 15
+3782 2472 134 67 53 20 51007621 591 136 0
+25 1 396 1 10
+388 275 6618869 19 57 14
+148 104 2059590 9 21 5
+212 137 5629280 9 41 7
+130 124 2779679 7 30 6
+298 233 4660456 16 43 12
+221 163 3285041 8 36 9
+550 358 7410018 20 110 19
+1329 693 12676135 25 180 32
+321 248 4228101 23 47 20
+185 137 1660452 25 26 13
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+687 400 7289028 81
+4 4 164741 0
+135 122 4721907 14
+217 195 3478989 28
+395 343 7324913 42
+91 7 50159 9
+459 302 6456450 141
+285 177 3601078 55
+138 130 3184998 14
+122 101 2257241 24
+69 37 508841 22
+376 188 2960834 53
+327 162 2742999 42
+10 6 1353366 3
+79 74 1277649 9
+27 8 211923 5
+28 25 158093 7
+8 6 350821 3
+5 5 82008 4
+24 5 118954 4
+25 22 152491 6
+90 45 593519 8
+4 4 5733 4
+177 104 1960886 13
+0
+0
+0
+2472
+0
+0
+0
+0
+0
+16
+0
+1
+4
+0
+844
+0
+0
+0
+0
+0
+6
+439
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/
+0 200 0 2387151 100 20
+/Edu.html
+0 27 0 84914 1 1
+/pdf/R Training.pdf
+0 4 0 141480 0 0
+/js/tabs.js
+0 71 0 78301 0 0
+/js/shBrushXml.js
+0 71 0 87071 0 0
+/images/highlighted_event_arrow.png
+1 60 0 43602 0 0
+/js/mustache.js
+0 87 0 379214 0 0
+/CC.html
+0 27 0 94819 2 0
+/images/readmore_button.png
+1 57 0 118253 0 0
+/pdf/GIT training.pdf
+0 5 0 323950 0 0
+/BI.html
+0 16 0 65595 3 0
+/js/jquery.flexslider.js
+0 62 0 584735 0 0
+/aboutUs.html
+0 6 0 11926 2 0
+/css/jquery-ui.css
+0 91 0 799395 0 0
+/images/upcoming_strip_background_loop.png
+1 56 0 149386 0 0
+/pdf/Cloud and Hadoop Training.pdf
+0 6 0 227328 0 0
+/files/main_style.css
+0 1 0 2344 0 0
+/css/fontsAwesome.css
+0 80 0 281788 0 0
+/css/fonts/fontawesome-webfont.woff
+0 62 0 1729479 0 0
+/js/jquery.mousewheel.min.js
+0 71 0 71787 0 0
+/TDD.html
+0 21 0 94028 2 1
+/css/fonts/fontawesome-webfont.eot
+0 7 0 233843 0 0
+/js/jquery.mCustomScrollbar.js
+0 71 0 733486 0 0
+/images/sprite.png
+1 52 0 1641744 0 0
+/blog.html
+0 15 0 24964 1 0
+/js/shBrushJScript.js
+0 72 0 77621 0 0
+/images/upComingEvents_Coming_Soon.png
+1 56 0 155868 0 0
+/robots.txt
+0 33 0 12342 0 0
+/PMC.html
+0 19 0 71201 4 1
+/css/reset.css
+0 80 0 54082 0 0
+/images/openstack2.jpg
+1 6 0 712785 0 0
+/css/basics.css
+0 80 0 219962 0 0
+/resourceCenter.html
+0 24 0 43039 1 2
+/css/flexslider.css
+0 98 0 230994 0 0
+/js/slider/modernizr.js
+0 80 0 278109 0 0
+/css/styles.css
+0 89 0 370036 0 0
+/activesteps/openstack.html
+0 63 0 175443 10 3
+/career.html
+0 18 0 26924 0 0
+/js/jquery.mousewheel.js
+0 62 0 70558 0 0
+/images/logo.png
+1 79 0 417418 0 0
+/js/jquery.easing.js
+0 70 0 208373 0 0
+/images/icon-pdf.gif
+1 22 0 25242 0 0
+/images/slider/slide_3.png
+1 63 0 3530261 0 0
+/images/logo_footer.jpg
+1 66 0 202131 0 0
+/images/datacenter.jpg
+1 6 0 558217 0 0
+/js/script.js
+0 71 0 147463 0 0
+/css/jquery.mCustomScrollbar.css
+0 92 0 147044 0 0
+/images/slider/slide_2.png
+1 64 0 7893206 0 0
+/js/jquery-ui.min.js
+0 72 0 4946954 0 0
+/engagementModels.html
+0 22 0 52871 2 1
+/pdf/Android Development.pdf
+0 5 0 319460 0 0
+/js/shCore.js
+0 70 0 581908 0 0
+/pdf/JobSurvivalCourse.pdf
+0 25 0 1287414 0 0
+/images/slider/slide_1.png
+1 63 0 4685244 0 0
+/images/slider/bg_direction_nav.png
+1 57 0 78005 0 0
+/contactUs.html
+0 17 0 28564 1 1
+/IS.html
+0 24 0 70570 2 0
+/images/topHrLine.png
+1 77 0 32611 0 0
+/pdf/Considerations while building SaaS Applications.pdf
+0 19 0 7947960 0 0
+/openstack.html
+0 14 0 43480 2 4
+/services.html
+0 2 0 11626 0 0
+/js/topNavSubMenu.js
+0 80 0 71735 0 0
+/js/jquery.min.js
+0 89 0 2903295 0 0
+/images/openstack.jpg
+1 18 0 1304419 0 0
+/sitemap.xml
+0 6 0 4134 0 0
+/js/demo.js
+0 62 0 30738 0 0
+/js/jquery.scrollTo-1.4.2-min.js
+0 71 0 103187 0 0
+# End Of Table - urls
+# -sites- (monthly)
+122.169.238.219
+0 82 45 1323344 2 1360139163
+/
+122.170.29.62
+0 46 43 939395 1 1360295307
+-
+66.249.76.85
+0 2 2 106767 0 0
+-
+80.86.88.174
+0 1 1 5532 1 1360172738
+/
+122.175.9.183
+0 439 142 2562161 5 1360310215
+/
+37.9.53.50
+0 1 1 39173 1 1360002687
+/
+49.205.12.164
+0 130 93 1686609 6 1360390595
+/Edu.html
+80.252.155.87
+0 1 1 39173 1 1360050621
+/
+122.170.103.83
+0 58 46 1305004 1 1359691807
+/resourceCenter.html
+183.83.184.185
+0 45 41 1252890 1 1360032259
+/resourceCenter.html
+202.65.130.75
+0 46 41 609546 1 1360308070
+/contactUs.html
+157.55.32.62
+0 2 2 2336 1 1360406020
+/PMC.html
+125.22.97.64
+0 52 47 785513 1 1360294402
+/career.html
+122.169.234.82
+0 61 59 1595335 1 1359939341
+/
+108.163.194.162
+0 52 46 1083022 2 1360390532
+-
+122.166.234.114
+0 14 1 15752 1 1360316288
+/activesteps/openstack.html
+202.65.144.106
+0 49 48 947507 1 1359679744
+/
+101.63.231.191
+0 45 41 768799 2 1360307239
+/activesteps/openstack.html
+124.124.63.2
+0 77 49 793052 2 1360320260
+/activesteps/openstack.html
+178.33.142.48
+0 1 1 39173 1 1359712222
+/
+199.30.16.6
+0 2 2 106767 0 0
+-
+180.76.6.224
+0 1 1 1962 1 1359994014
+/PMC.html
+27.6.16.180
+0 66 64 2837284 2 1359858457
+/
+180.76.6.232
+0 2 1 5867 2 1360422653
+/
+95.220.165.29
+0 28 28 646293 1 1359771213
+/
+184.154.132.90
+0 26 23 546163 1 1359785918
+-
+38.100.21.67
+0 11 11 166874 1 1360050927
+/IS.html
+68.2.26.111
+0 45 45 657607 1 1360283279
+/resourceCenter.html
+119.235.54.118
+0 618 184 3067990 9 1360475774
+/
+180.76.6.14
+0 1 1 2344 0 0
+-
+180.76.6.28
+0 1 1 5573 1 1360421698
+/
+180.76.6.29
+0 2 1 2256 2 1360527962
+/PMC.html
+92.52.76.140
+0 19 17 285895 1 1360320410
+/activesteps/openstack.html
+180.76.6.37
+0 1 1 5577 1 1360512458
+/
+122.169.238.6
+0 168 58 1047585 2 1360223370
+/
+204.236.155.188
+0 2 2 39188 1 1360348535
+/
+198.27.74.10
+0 1 1 38814 1 1360494256
+/
+66.249.73.71
+0 1 1 37888 0 0
+-
+198.27.74.13
+0 1 1 38814 1 1360376184
+/
+66.249.73.76
+0 1 1 61266 0 0
+-
+122.169.90.234
+0 19 17 408243 1 1360366844
+/activesteps/openstack.html
+108.94.0.232
+0 41 39 598664 1 1359686959
+/contactUs.html
+99.90.68.88
+0 37 37 594510 1 1360022224
+/
+65.55.24.245
+0 2 2 2002 1 1360335497
+/IS.html
+66.249.73.83
+0 1 1 35370 0 0
+-
+69.175.118.170
+0 78 69 1638489 3 1360045190
+-
+95.220.167.129
+0 28 28 646293 1 1360075901
+/
+66.249.73.89
+0 1 1 64790 0 0
+-
+199.30.20.18
+0 2 2 81521 0 0
+-
+78.46.145.198
+0 1 1 39173 1 1359713595
+/
+100.43.83.140
+0 8 7 10324 2 1360531515
+/BI.html
+199.30.20.55
+0 2 2 8766 0 0
+-
+66.249.75.78
+0 1 1 2584 1 1360524445
+/openstack.html
+203.91.193.7
+0 59 54 1578006 1 1360228454
+/Edu.html
+144.36.182.130
+0 64 47 747380 1 1360124729
+/
+66.249.75.80
+0 7 7 71517 0 0
+-
+66.249.75.85
+0 2 2 176672 0 0
+-
+66.249.75.89
+0 2 2 11762 0 0
+-
+66.249.75.92
+0 3 3 4056 0 0
+-
+66.249.75.96
+0 1 1 374 0 0
+-
+12.230.154.6
+0 1 0 1099 1 1360312110
+/activesteps/openstack.html
+199.30.20.91
+0 2 2 176672 0 0
+-
+65.55.213.241
+0 4 4 2126 0 0
+-
+65.55.213.246
+0 2 2 1063 0 0
+-
+182.72.243.179
+0 48 46 1269798 1 1360310703
+/resourceCenter.html
+122.175.24.129
+0 144 96 2649996 3 1359699277
+/resourceCenter.html
+95.25.42.120
+0 19 18 138466 1 1360529305
+/aboutUs.html
+95.108.151.244
+0 3 3 11438 1 1359811030
+/
+176.195.72.137
+0 76 72 1106210 2 1360487070
+/
+157.55.33.31
+0 2 2 2928 1 1359698600
+/TDD.html
+173.74.220.244
+0 46 40 606005 1 1360368882
+/
+182.72.66.222
+0 47 42 658219 1 1360038153
+/contactUs.html
+67.21.0.38
+0 44 40 611002 1 1360248562
+/
+38.123.132.2
+0 2 2 78346 1 1360217788
+/
+103.246.38.196
+0 3 3 87530 1 1360293417
+/activesteps/openstack.html
+173.236.29.218
+0 52 44 1052586 2 1360477450
+-
+115.240.74.177
+0 19 17 285895 1 1360294083
+/activesteps/openstack.html
+74.52.245.146
+0 1 1 39177 1 1360243804
+/
+157.55.35.35
+0 4 2 2946 2 1360219659
+-
+122.175.8.8
+0 91 10 105156 2 1359787284
+/resourceCenter.html
+157.55.35.52
+0 1 1 2044 1 1360166086
+/BI.html
+54.241.44.193
+0 3 3 78002 1 1360414069
+/
+180.76.5.10
+0 1 0 294 1 1360092731
+/
+180.76.5.12
+0 1 1 2229 1 1360285070
+/CC.html
+180.76.5.18
+0 1 0 294 1 1359760554
+/
+122.169.234.111
+0 42 40 608832 1 1359778325
+/
+180.76.5.23
+0 1 1 374 0 0
+-
+157.55.35.90
+0 6 5 9173 3 1360514386
+/CC.html
+180.76.5.103
+0 1 1 374 0 0
+-
+66.249.75.107
+0 3 3 6856 0 0
+-
+180.76.5.110
+0 1 1 2019 1 1360088523
+/aboutUs.html
+66.249.75.108
+0 2 2 4891 0 0
+-
+180.76.5.111
+0 1 0 290 1 1359751164
+/
+216.239.45.130
+0 38 37 595552 1 1360282193
+/
+98.193.174.212
+0 3 3 3175 1 1360277560
+/CC.html
+66.249.75.111
+0 3 3 50745 1 1360495537
+/
+66.249.75.112
+0 2 2 40420 0 0
+-
+180.76.5.48
+0 1 1 2044 1 1360169084
+/BI.html
+66.249.75.113
+0 1 1 374 0 0
+-
+74.125.187.212
+0 1 0 1037 0 0
+-
+66.249.75.116
+0 1 1 1370 0 0
+-
+66.249.75.117
+0 1 1 2065 0 0
+-
+49.205.46.69
+0 28 23 273102 1 1360231833
+/
+180.76.5.51
+0 1 1 374 0 0
+-
+66.249.75.121
+0 1 1 81147 0 0
+-
+66.249.75.122
+0 1 1 374 0 0
+-
+180.76.5.58
+0 1 0 294 1 1360273818
+/PMC.html
+76.184.242.225
+0 77 59 2227397 1 1359896395
+/resourceCenter.html
+66.249.75.127
+0 1 1 374 0 0
+-
+66.249.75.128
+0 2 2 11224 0 0
+-
+180.76.5.137
+0 1 1 5573 1 1360442344
+/
+180.76.5.63
+0 1 0 294 1 1360267713
+/
+180.76.5.65
+0 1 0 294 1 1359876327
+/
+180.76.5.66
+0 1 1 5577 1 1360512458
+/
+66.249.75.131
+0 3 3 3918 0 0
+-
+173.45.73.18
+0 1 1 5532 1 1359751725
+/
+74.125.187.238
+0 1 0 1037 0 0
+-
+117.221.52.178
+0 53 44 726145 1 1360238114
+/aboutUs.html
+14.140.0.154
+0 107 103 2218271 2 1360221743
+/
+69.175.20.162
+0 59 52 1169349 2 1360218121
+-
+180.76.5.167
+0 1 1 374 0 0
+-
+180.76.5.93
+0 2 2 8131 2 1360421699
+/
+180.76.5.96
+0 1 1 374 0 0
+-
+59.160.60.241
+0 50 26 331198 1 1360283452
+/activesteps/openstack.html
+180.76.5.172
+0 1 0 294 1 1360369261
+/Edu.html
+180.76.5.173
+0 1 1 1628 1 1360433756
+/IS.html
+180.76.5.177
+0 1 0 290 1 1360278961
+/
+122.169.222.167
+0 38 37 595491 1 1360370082
+/
+180.76.5.183
+0 2 0 580 2 1360389117
+/engagementModels.html
+66.249.73.101
+0 1 1 63892 0 0
+-
+66.249.73.107
+0 1 1 374 0 0
+-
+46.229.160.208
+0 1 1 61266 0 0
+-
+46.242.91.60
+0 19 18 138650 1 1360514807
+/engagementModels.html
+176.195.48.149
+0 38 36 553105 1 1360401067
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+119.235.54.118
+0 44 3 24954 1 1360475774
+/
+180.76.6.29
+0 1 1 1962 1 1360527962
+/PMC.html
+180.76.6.37
+0 1 1 5577 1 1360512458
+/
+198.27.74.10
+0 1 1 38814 1 1360494256
+/
+100.43.83.140
+0 2 2 2418 1 1360531515
+/BI.html
+66.249.75.78
+0 1 1 2584 1 1360524445
+/openstack.html
+66.249.75.80
+0 7 7 71517 0 0
+-
+66.249.75.89
+0 2 2 11762 0 0
+-
+66.249.75.92
+0 3 3 4056 0 0
+-
+66.249.75.96
+0 1 1 374 0 0
+-
+95.25.42.120
+0 19 18 138466 1 1360529305
+/aboutUs.html
+176.195.72.137
+0 38 36 553105 1 1360487070
+/
+173.236.29.218
+0 26 23 536859 1 1360477450
+-
+157.55.35.90
+0 2 2 2603 1 1360514386
+/CC.html
+66.249.75.107
+0 3 3 6856 0 0
+-
+66.249.75.108
+0 1 1 4202 0 0
+-
+66.249.75.111
+0 3 3 50745 1 1360495537
+/
+66.249.75.112
+0 2 2 40420 0 0
+-
+66.249.75.116
+0 1 1 1370 0 0
+-
+66.249.75.117
+0 1 1 2065 0 0
+-
+66.249.75.122
+0 1 1 374 0 0
+-
+66.249.75.128
+0 2 2 11224 0 0
+-
+180.76.5.66
+0 1 1 5577 1 1360512458
+/
+66.249.75.131
+0 3 3 3918 0 0
+-
+46.242.91.60
+0 19 18 138650 1 1360514807
+/engagementModels.html
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.akrantha.com/index.html
+1 12
+- (Direct Request)
+0 776
+http://www.google.co.in/url
+1 5
+http://akrantha.com/css/fontsAwesome.css
+1 13
+http://www.meetup.com/Indian-OpenStack-User-Group/boards/view/viewthread
+0 1
+http://akrantha.com/css/styles.css
+1 107
+http://www.akrantha.com/services.html
+1 2
+http://www.akrantha.com/TDD.html
+1 3
+http://www.akrantha.com/CC.html
+1 3
+http://www.akrantha.com/css/styles.css
+1 68
+http://www.akrantha.com/BI.html
+1 1
+http://www.akrantha.com/PMC.html
+1 1
+http://akrantha.com/activesteps/index.html
+1 1
+http://akrantha.com/index.html
+1 118
+Google
+2 53
+http://www.akrantha.com/
+1 705
+http://akrantha.com/Edu.html
+1 26
+http://www.akrantha.com/career.html
+1 11
+http://akrantha.com/contactUs.html
+1 5
+http://akrantha.com/services.html
+1 1
+http://yandex.ru/yandsearch
+0 7
+http://akrantha.com/openstack.html
+1 7
+http://akrantha.com/aboutUs.html
+1 21
+http://akrantha.com/career.html
+1 5
+http://akrantha.com/Java Survival Course - brochure.pdf
+1 1
+http://www.akrantha.com/engagementModels.html
+1 18
+http://www.akrantha.com/css/flexslider.css
+1 7
+http://www.google.com/url
+1 43
+http://www.akrantha.com/contactUs.html
+1 6
+Yahoo!
+2 1
+http://akrantha.com/activesteps/openstack.html
+1 324
+http://akrantha.com/IS.html
+1 5
+http://www.akrantha.com/openstack.html
+1 24
+http://www.google.co.in/
+1 4
+http://akrantha.com/engagementModels.html
+1 28
+http://akrantha.com/TDD.html
+1 2
+http://akrantha.com/blog.html
+1 6
+https://www.google.co.in/
+1 1
+http://akrantha.com/activesteps/CC.html
+1 1
+http://akrantha.com/
+1 1313
+http://www.linkedin.com/mbox
+0 1
+http://us.mg6.mail.yahoo.com/neo/launch
+1 1
+http://akrantha.com/resourceCenter.html
+1 13
+http://www.justdial.com/website.php
+0 2
+http://akrantha.com/pdf/Considerations while building SaaS Applications.pdf
+1 3
+http://www.akrantha.com/resourceCenter.html
+1 21
+http://www.akrantha.com/blog.html
+1 10
+http://www.akrantha.com/Edu.html
+1 14
+http://akrantha.com/CC.html
+1 8
+http://akrantha.com/css/flexslider.css
+1 10
+http://www.akrantha.com/css/fontsAwesome.css
+1 8
+http://www.akrantha.com/IS.html
+1 5
+http://www.akrantha.com/pdf/Considerations while building SaaS Applications.pdf
+1 2
+http://akrantha.com/BI.html
+1 1
+http://akrantha.com/Hadoop  - brochure.pdf
+1 1
+# End Of Table - referrers
+# -agents- 
+MSIE 7.0
+0 80
+Googlebot-Image/1.0
+0 3
+Googlebot/2.1
+0 37
+Netscape 6 compatible
+2 2997
+MSIE 3.0
+0 1
+NING/1.0
+0 2
+msnbot-media/1.1 (+http://search.msn.com/msnbot.htm)
+0 8
+Mozilla/5.0
+0 2997
+Googlebot/2.1 (+http://www.google.com/bot.html)
+0 5
+Opera/9.8
+0 1
+Baiduspider/2.0
+0 26
+YandexBot/3.0
+0 11
+Opera
+2 1
+MSIE 8.0
+0 197
+Web front page analyser. robots.txt complaint (norw.acd.inst@
+0 2
+MSIE 6.0
+0 68
+Mozila/5.0
+0 1
+Google Desktop/5.9
+0 1
+bingbot/2.0
+0 17
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 225
+msnbot/2.0b (+http://search.msn.com/msnbot.htm)
+0 6
+MSIE 9.0
+0 88
+# End Of Table - agents
+# -search strings- 
+www.akrantha.com
+1
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

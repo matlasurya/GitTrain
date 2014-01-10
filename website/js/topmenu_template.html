@@ -1,0 +1,57 @@
+<script id="topMenuTemplate"  type="text/x-handlebars-template" >
+	{{#homeTab}}
+	<li class="{{linkClass}}" id="{{id}}">
+		<a href="{{url}}" class="{{linkClassTop}} ">{{name}}</a>
+	</li>
+	{{/homeTab}}
+	
+	{{#servicesTab}}
+	<li class="{{linkClass}}{{subTabMenu}}"  id="{{id}}">
+		<div>
+			<a href="{{url}}">{{name}}</a>
+			<i class="icon-sort-down"></i>
+		</div>
+		
+		<div class="subMenuItems">
+			<ul>
+				{{#servicesSubMenus}}
+				<li>
+					<a href="{{url}}">{{name}}</a>
+				</li>
+				{{/servicesSubMenus}}
+			</ul>
+		</div>
+	</li>
+	{{/servicesTab}}
+	
+	{{#engageModelTab}}
+	<li class="{{linkClass}}"  id="{{id}}">
+		<a href="{{url}}">{{name}}</a>
+	</li>
+	{{/engageModelTab}}
+	
+	{{#aboutUsTab}}
+	<li class="{{linkClass}}{{subTabMenu}}"  id="{{id}}">
+		<div>
+			<a href="{{url}}">{{name}}</a>
+			<i class="icon-sort-down"></i>
+		</div>
+		
+		<div class="subMenuItems">
+			<ul>
+				{{#aboutSubMenus}}
+				<li>
+					<a href="{{url}}">{{name}}</a>
+				</li>
+				{{/aboutSubMenus}}
+			</ul>
+		</div>
+	</li>
+	{{/aboutUsTab}}
+	
+	{{#resoureCenterTab}}
+	<li class="{{linkClass}}"  id="{{id}}">
+		<a href="{{url}}">{{name}}</a>
+	</li>
+	{{/resoureCenterTab}}
+</script>
